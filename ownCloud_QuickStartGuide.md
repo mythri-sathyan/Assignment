@@ -59,32 +59,32 @@ For more information, see [https://doc.owncloud.org/server/latest/admin_manual/i
    For details about each resource, see [https://owncloud.org/download/](https://owncloud.org/download/)
 
 2. You can install ownCloud Server in any of the following ways:
-   * **Using source tarball**: If there are no packages for the Linux distribution, then install the ownCloud Server    
-       using the source tarball.     
-     **Note**: This is the recommended option for production environments.
-      To install using the source tarball:
-        1. Install the required and recommended modules 
-        2. Install ownCloud Server
-        3. Configure Web Server
-        4. Enable SSL
-        5. Run the Installation Wizard
-        6. Set strong directory permissions
-        7. Configure SELinux
-        8. Configure core PHP settings
-        9. Configure PHP-FPM (optional)
-       10. Configure other Web servers (optional) 
+   * **Using source tarball**: If there are no packages for the Linux distribution, then install the ownCloud Server using the source tarball.     
+     **Note**: This is the recommended option for production environments.      
+	
+	   To install using the source tarball:
+        1. Install the required and recommended modules.
+        2. Install ownCloud Server.
+        3. Configure Web Server.
+        4. Enable SSL.
+        5. Run the Installation Wizard.
+        6. Set strong directory permissions.
+        7. Configure SELinux.
+        8. Configure core PHP settings.
+        9. Configure PHP-FPM (optional).
+       10. Configure other Web servers (optional). 
        
        For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/source_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/source_installation.html)
 
    * **Using Linux Distribution Packages**: ownCloud provides ready-to-deploy packages for Linux distributions such as 
-       Debian, Ubuntu, Fedora, RedHat Enterprise Linux, CentOS and openSUSE. 
-       To install the Linux packages:
+       Debian, Ubuntu, Fedora, RedHat Enterprise Linux, CentOS and openSUSE.       
+	   
+	   To install the Linux packages:
        1. Download and install the packages using Linux Package Manager.    
           For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/linux_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/linux_installation.html)
        2. Run the Installation Wizard to complete the ownCloud Server installation.      
           For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/installation_wizard.html](https://doc.owncloud.org/server/latest/admin_manual/installation/installation_wizard.html)
-   * **Using Docker image**: Install ownCloud using the ownCloud Docker image. It is designed to work with a data volume  
-       in the host filesystem and separate MariaDB and Redis containers. Also, the ownCloud Docker image:
+   * **Using Docker image**: Install ownCloud using the ownCloud Docker image. It is designed to work with a data volume in the host filesystem and separate MariaDB and Redis containers. Also, the ownCloud Docker image:
        * Allows ports 80 and 443 for HTTP and HTTPS connections
        * Mounts data and MySQL data directories on the host for persistent storage
    
@@ -216,7 +216,7 @@ Users can upload, download, and interact with the ownCloud Server files using th
 To connect to ownCloud Server from your Desktop:
 1. Launch ownCloud Desktop Synchronization Client from your system. 
 2. Specify the ownCloud Server URL and login credentials.
-3. Select the folders on your system that must be synchronized with the ownCloud Server and vice-versa 
+3. Select the folders on your system that must be synchronized with the ownCloud Server and vice-versa.
 4. Click **Connect**.   
    After the connection is established, the specified folders are synchronized between the ownCloud Server and your 
    system.   
@@ -228,8 +228,6 @@ To connect to ownCloud Server using your mobile device:
    The **Configuration** screen is displayed.
 2. Specify your ownCloud Server URL and login credentials. 
 3. Click **Connect**.    
-   If the ownCloud Server has a self-signed SSL certificate, a warning message is displayed indicating that it must    
-   not be trusted. Tap YES to accept the certificate and complete your account setup. 
-   After connecting to the ownCloud Server, the files are synchronized between the ownCloud Server and your mobile 
-   device.     
+   If the ownCloud Server has a self-signed SSL certificate, a warning message is displayed indicating that it must not be trusted. Tap YES to accept the certificate and complete your account setup. 
+   After connecting to the ownCloud Server, the files are synchronized between the ownCloud Server and your mobile device.     
    For more information, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html) and [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
