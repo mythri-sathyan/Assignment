@@ -19,7 +19,7 @@ This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
 
-																				[Go to top](#owncloud-quick-start-guide)
+												[Go to top](#owncloud-quick-start-guide)
 
 ## Getting Started with ownCloud      
 
