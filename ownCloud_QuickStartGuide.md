@@ -4,10 +4,10 @@ ownCloud is an open source file sync and share solution that aims to create your
 
 **Topics**:
 * [Audience and Purpose](#audience-and-purpose)
-* [Getting Started with ownCloud](#getting-started-with-ownCloud)
+* [Getting Started with ownCloud](#getting-started)
 * [Installation Highlights](#installation-highlights)
 * [Prerequisites](#prerequisites)
-* [Installing ownCloud Server](#installing-ownCloud-server)
+* [Installing ownCloud Server](#installing-ownCloud)
 * [Configuring ownCloud Server](#configuring-ownCloud-server)
 * [Installing ownCloud Clients](#installing-ownCloud-clients)
 * [Connecting to ownCloud Server Using Desktop](#connecting-to-ownCloud-server-using-desktop)
@@ -200,8 +200,7 @@ Users can upload, download, and interact with the ownCloud Server files using th
    * Desktop client: Synchronizes data from your local system with the ownCloud Server and vice-versa. For more 
      information, see [https://owncloud.org/download/#owncloud-desktop-client](https://owncloud.org/download/#owncloud-desktop-client)    
    **Note**: Supported operating systems are Windows, Mac, and Linux.     
-   * Mobile Apps: Synchronizes data from your mobile device with the ownCloud Server and vice-versa. For more    
-     information, see [https://owncloud.org/download/#owncloud-mobile-apps](https://owncloud.org/download/#owncloud-mobile-apps)        
+   * Mobile Apps: Synchronizes data from your mobile device with the ownCloud Server and vice-versa. For more information, see [https://owncloud.org/download/#owncloud-mobile-apps](https://owncloud.org/download/#owncloud-mobile-apps)        
    **Note**: Supported operating systems are iOS and Android.     
 2. To install ownCloud client:
    * Desktop client: Installation procedures for Mac OS X and Windows are the same. However, Linux users must follow 
