@@ -8,7 +8,7 @@ ownCloud is an open source file sync and share solution that aims to create your
 * [Getting Started with ownCloud](#getting-started-with-owncloud)
 * [Installation Highlights](#installation-highlights)
 * [Prerequisites](#prerequisites)
-* [Installing ownCloud Server](#installing-owncloud)
+* [Installing ownCloud Server](#installing-owncloud-server)
 * [Configuring ownCloud Server](#configuring-owncloud-server)
 * [Installing ownCloud Clients](#installing-owncloud-clients)
 * [Connecting to ownCloud Server Using Desktop](#connecting-to-owncloud-server-using-desktop)
