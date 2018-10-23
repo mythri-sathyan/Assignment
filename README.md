@@ -1,6 +1,5 @@
 ownCloud is an open source file sync and share solution that aims to create your own on-premise cloud. It allows you to synchronize information between devices, share files, and collaboratively work on documents. It can be used for small workgroups or departments, mid-sized enterprises, large enterprises, and service providers. Using ownCloud, IT can manage the company‘s confidential documents and allow users to access the required information anytime and anywhere (based on the privileges).
 # Audience and Purpose
-[http://github.com](http://github.com)
 This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
@@ -74,7 +73,7 @@ For more information, see [https://doc.owncloud.org/server/latest/admin_manual/i
       4. Start the container, using your preferred Docker command-line tool.
       5. Check whether all the containers are started successfully.
        
-      For more information, see https://doc.owncloud.org/server/latest/admin_manual/installation/docker/
+      For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/docker/](https://doc.owncloud.org/server/latest/admin_manual/installation/docker/)
 
   * **Using Appliance**: It is built on Univention Corporate Server (UCS) that is completely configured with a secure 
       connection and the ownCloud Proxy app.       
@@ -85,7 +84,7 @@ For more information, see [https://doc.owncloud.org/server/latest/admin_manual/i
      1. Download and install the appliance.
      2. Start the Appliance.
      3. Activate the Appliance.       
-     For more information, see https://doc.owncloud.org/server/latest/admin_manual/appliance/installation.html
+     For more information, see [https://doc.owncloud.org/server/latest/admin_manual/appliance/installation.html](https://doc.owncloud.org/server/latest/admin_manual/appliance/installation.html)
 
  * **Using Command Line**: This method is recommended for scripted operations and system administrators who prefer using 
      command line instead of GUI. 
@@ -96,8 +95,7 @@ For more information, see [https://doc.owncloud.org/server/latest/admin_manual/i
      3. Set the correct owner and permissions.
      4. Perform post installation tasks.   
                                 
-    For more information, see  
-   https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html
+    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html)
 
 # Configuring ownCloud Server
 After installing the ownCloud Server, the administrator must perform the following basic configurations so that users can connect to this Server from their Desktop client or mobile device: 
@@ -106,7 +104,7 @@ After installing the ownCloud Server, the administrator must perform the followi
      * Convert database type
      * Configure a supported database such as MySQL/MariaDB, PostgreSQL, or Oracle (ownCloud Enterprise edition only).    
        
-     For more information, see https://doc.owncloud.org/server/latest/admin_manual/configuration/database/ 
+     For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/database/](https://doc.owncloud.org/server/latest/admin_manual/configuration/database/) 
 
 * **Configure file sharing options**: You can configure the following file sharing options:
     * Setup file sharing policy
@@ -120,7 +118,7 @@ After installing the ownCloud Server, the administrator must perform the followi
     * Control file versions       
 
     For more information, see 
-    https://doc.owncloud.org/server/latest/admin_manual/configuration/files/file_sharing_configuration.html
+    [https://doc.owncloud.org/server/latest/admin_manual/configuration/files/file_sharing_configuration.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/files/file_sharing_configuration.html)
  
 * **Implement an LDAP proxy cache server**: To reduce network traffic overhead and improve ownCloud performance, 
     implement the LDAP proxy cache. 
@@ -134,7 +132,7 @@ After installing the ownCloud Server, the administrator must perform the followi
     6. Configure ownCloud LDAP app.   
 
     For more information, see 
-    https://doc.owncloud.org/server/latest/admin_manual/configuration/ldap/ldap_proxy_cache_server_setup.html 
+    [https://doc.owncloud.org/server/latest/admin_manual/configuration/ldap/ldap_proxy_cache_server_setup.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/ldap/ldap_proxy_cache_server_setup.html) 
 
 * **Configure Server Operations**: During ownCloud Server installation, most of the server operations are configured    
     automatically. The ownCloud Server has a built-in configuration check that provides a report as warnings at the top 
@@ -152,7 +150,7 @@ After installing the ownCloud Server, the administrator must perform the followi
     * Background jobs
     * Activity app
 
-    For more information, see https://doc.owncloud.org/server/latest/admin_manual/configuration/server/
+    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/server/](https://doc.owncloud.org/server/latest/admin_manual/configuration/server/)
 
 * **Manage MIME types**: You can create alias and map file extensions for MIME types. It allows to display custom icons 
     for files. 
@@ -160,7 +158,7 @@ After installing the ownCloud Server, the administrator must perform the followi
     * Change existing icons and use custom icons
     * Map a file extension to a mime type
 
-   For more information, see https://doc.owncloud.org/server/latest/admin_manual/configuration/mimetypes/
+   For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/mimetypes/](https://doc.owncloud.org/server/latest/admin_manual/configuration/mimetypes/)
 
 * **User Management**: User management enables administrators to manage users and groups based on roles and privileges. 
     You can perform the following:
@@ -173,25 +171,25 @@ After installing the ownCloud Server, the administrator must perform the followi
     * Configure user authentication with LDAP
     * Configure Provisioning API app
 
-    For more information, see https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html. 
+    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html) 
 
 # Installing ownCloud Clients
 Users can upload, download, and interact with the ownCloud Server files using the clients.
 1. Based on your requirement, you can download any one of the following clients:
    * Desktop client: Synchronizes data from your local system with the ownCloud Server and vice-versa. For more 
-     information, see https://owncloud.org/download/#owncloud-desktop-client    
+     information, see [https://owncloud.org/download/#owncloud-desktop-client](https://owncloud.org/download/#owncloud-desktop-client)    
    **Note**: Supported operating systems are Windows, Mac, and Linux.     
    * Mobile Apps: Synchronizes data from your mobile device with the ownCloud Server and vice-versa. For more    
-     information, see https://owncloud.org/download/#owncloud-mobile-apps        
+     information, see [https://owncloud.org/download/#owncloud-mobile-apps](https://owncloud.org/download/#owncloud-mobile-apps)        
    **Note**: Supported operating systems are iOS and Android.     
 2. To install ownCloud client:
    * Desktop client: Installation procedures for Mac OS X and Windows are the same. However, Linux users must follow 
      the instructions on the download page.    
-     For more information, see https://doc.owncloud.org/desktop/latest/installing.html.   
+     For more information, see [https://doc.owncloud.org/desktop/latest/installing.html](https://doc.owncloud.org/desktop/latest/installing.html) 
    * Mobile Apps: You can install mobile apps for a simple interface, automatic synchronization of the files, and 
      easy to upload files from your device to ownCloud server. 
-     * For more information about installing ownCloud iOS App, see https://doc.owncloud.org/ios/ios_app.html
-     * For more information about installing ownCloud Android App, see https://doc.owncloud.org/android/android_app.html
+     * For more information about installing ownCloud iOS App, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html)
+     * For more information about installing ownCloud Android App, see [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
 
 # Connecting to ownCloud Server Using Desktop
 To connect to ownCloud Server from your Desktop:
@@ -201,7 +199,7 @@ To connect to ownCloud Server from your Desktop:
 4. Click **Connect**.   
    After the connection is established, the specified folders are synchronized between the ownCloud Server and your 
    system.   
-   For more information, see https://doc.owncloud.org/desktop/latest/
+   For more information, see [https://doc.owncloud.org/desktop/latest/](https://doc.owncloud.org/desktop/latest/)
 
 # Connecting to ownCloud Server Using Mobile App
 To connect to ownCloud Server using your mobile device:
@@ -213,4 +211,4 @@ To connect to ownCloud Server using your mobile device:
    not be trusted. Tap YES to accept the certificate and complete your account setup. 
    After connecting to the ownCloud Server, the files are synchronized between the ownCloud Server and your mobile 
    device.     
-   For more information, see https://doc.owncloud.org/desktop/latest/
+   For more information, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html) and [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
