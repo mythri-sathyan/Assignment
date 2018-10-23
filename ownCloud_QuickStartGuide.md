@@ -17,7 +17,7 @@ ownCloud is an open source file sync and share solution that aims to create your
 ## Audience and Purpose
 This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
-* Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
+* Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App    
 [Go to top](#owncloud-quick-start-guide)
 
 ## Getting Started with ownCloud      
