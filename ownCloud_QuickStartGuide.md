@@ -1,11 +1,22 @@
 # ownCloud Quick Start Guide
 
 ownCloud is an open source file sync and share solution that aims to create your own on-premise cloud. It allows you to synchronize information between devices, share files, and collaboratively work on documents. It can be used for small workgroups or departments, mid-sized enterprises, large enterprises, and service providers. Using ownCloud, IT can manage the company‘s confidential documents and allow users to access the required information anytime and anywhere (based on the privileges).
-## Audience and Purpose
+**Topics**:
+* [[Audience and Purpose|#audience-and-purpose]]
+* [[Getting Started with ownCloud|#getting-started-with-ownCloud]]
+* [[Installation Highlights|#installation-highlights]]
+* [[Prerequisites|#prerequisites]]
+* [[Installing ownCloud Server|#installing-ownCloud-server]]
+* [[Configuring ownCloud Server|#configuring-ownCloud-server]]
+* [[Installing ownCloud Clients|#installing-ownCloud-clients]]
+* [[Connecting to ownCloud Server Using Desktop|#connecting-to-ownCloud-server-using-desktop]]
+* [[Connecting to ownCloud Server Using Mobile App|#connecting-to-ownCloud-server-using-mobile-app]]
+
+## [audience-and-purpose]Audience and Purpose
 This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
-## Getting Started with ownCloud
+## [getting-started-with-ownCloud]Getting Started with ownCloud
 To get started with ownCloud, perform the following:
 * **Review basic ownCloud information**: Read the basic information to understand ownCloud. For more information, see [https://owncloud.org/](https://owncloud.org/)
 * **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html](https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
@@ -144,15 +155,16 @@ After installing the ownCloud Server, the administrator must perform the followi
 
   **Note**: It is recommended to edit this file only if you have to change a parameter value. For example, to enable 
     users for connecting to the Server using the Server’s IP address and port 8080, change the dbhost parameter to 
-    <ServerIPaddress>:<portnumber>. 
-    The following are a few server operations that you can configure
-    * SSL-enabled security
-    * Email notifications
-    * Virus scanner
-    * Memory caching
-    * Background jobs
-    * Activity app
-
+    <ServerIPaddress>:<portnumber>.    
+	
+	The following are a few server operations that you can configure
+	* SSL-enabled security     
+	* Email notifications    
+	* Virus scanner     
+	* Memory caching     
+	* Background jobs     
+	* Activity app    
+	
     For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/server/](https://doc.owncloud.org/server/latest/admin_manual/configuration/server/)
 
 * **Manage MIME types**: You can create alias and map file extensions for MIME types. It allows to display custom icons 
