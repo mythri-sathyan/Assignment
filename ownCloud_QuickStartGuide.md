@@ -26,9 +26,8 @@ To get started with ownCloud, perform the following:
 * **Review basic ownCloud information**: Read the basic information to understand ownCloud. For more information, see [https://owncloud.org/](https://owncloud.org/)
 * **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html](https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
 * **Procure licenses**: Standard, Enterprise, and custom subscriptions are available. For more information, see [https://owncloud.com/pricing/](https://owncloud.com/pricing/) 
-* **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see [https://owncloud.com/manage-control-files/](https://owncloud.com/manage-control-files/)
-
-[Top](#owncloud-quick-start-guide)
+* **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see [https://owncloud.com/manage-control-files/](https://owncloud.com/manage-control-files/)      
+[Go to top](#owncloud-quick-start-guide)
 
 ## Installation Highlights     
    
@@ -37,7 +36,8 @@ The following are the steps to install and configure ownCloud Server to connect 
 2. Install ownCloud Server.   
 3. Configure ownCloud Server.
 4. Install the required client (Desktop or Mobile App) for connecting to the ownCloud Server.
-5. Connect to ownCloud Server from client.
+5. Connect to ownCloud Server from client.       
+[Go to top](#owncloud-quick-start-guide)
 
 ## Prerequisites
 
@@ -52,7 +52,8 @@ Before installing ownCloud, you must consider a few system requirements for the 
 * Mobile App 
 * Browsers and Hypervisors
 
-For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html](https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html)
+For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html](https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html)       
+[Go to top](#owncloud-quick-start-guide)
 
 ## Installing ownCloud Server
 1. You can download ownCloud Server using any one of the following resources:
@@ -121,7 +122,8 @@ For more information, see [https://doc.owncloud.org/server/latest/admin_manual/i
      3. Set the correct owner and permissions.
      4. Perform post installation tasks.   
                                 
-    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html)
+    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html)          
+[Go to top](#owncloud-quick-start-guide)
 
 ## Configuring ownCloud Server
 After installing the ownCloud Server, the administrator must perform the following basic configurations so that users can connect to this Server from their Desktop client or mobile device: 
@@ -197,6 +199,7 @@ After installing the ownCloud Server, the administrator must perform the followi
     * Configure Provisioning API app
 
     For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html) 
+[Go to top](#owncloud-quick-start-guide)
 
 ## Installing ownCloud Clients
 Users can upload, download, and interact with the ownCloud Server files using the clients.
@@ -214,6 +217,7 @@ Users can upload, download, and interact with the ownCloud Server files using th
      easy to upload files from your device to ownCloud Server. 
      * For more information about installing ownCloud iOS App, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html)
      * For more information about installing ownCloud Android App, see [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
+[Go to top](#owncloud-quick-start-guide)
 
 ## Connecting to ownCloud Server Using Desktop
 To connect to ownCloud Server from your Desktop:
@@ -224,6 +228,7 @@ To connect to ownCloud Server from your Desktop:
    After the connection is established, the specified folders are synchronized between the ownCloud Server and your 
    system.   
    For more information, see [https://doc.owncloud.org/desktop/latest/](https://doc.owncloud.org/desktop/latest/)
+[Go to top](#owncloud-quick-start-guide)
 
 ## Connecting to ownCloud Server Using Mobile App
 To connect to ownCloud Server using your mobile device:
@@ -234,3 +239,4 @@ To connect to ownCloud Server using your mobile device:
    If the ownCloud Server has a self-signed SSL certificate, a warning message is displayed indicating that it must not be trusted. Tap YES to accept the certificate and complete your account setup. 
    After connecting to the ownCloud Server, the files are synchronized between the ownCloud Server and your mobile device.     
    For more information, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html) and [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
+[Go to top](#owncloud-quick-start-guide)
