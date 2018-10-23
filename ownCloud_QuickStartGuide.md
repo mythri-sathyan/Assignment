@@ -18,6 +18,8 @@ This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
 
+[Top](#owncloud-quick-start-guide)
+
 ## Getting Started with ownCloud      
 
 To get started with ownCloud, perform the following:
@@ -25,6 +27,8 @@ To get started with ownCloud, perform the following:
 * **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html](https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
 * **Procure licenses**: Standard, Enterprise, and custom subscriptions are available. For more information, see [https://owncloud.com/pricing/](https://owncloud.com/pricing/) 
 * **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see [https://owncloud.com/manage-control-files/](https://owncloud.com/manage-control-files/)
+
+[Top](#owncloud-quick-start-guide)
 
 ## Installation Highlights     
    
