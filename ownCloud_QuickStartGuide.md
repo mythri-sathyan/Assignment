@@ -4,14 +4,14 @@ ownCloud is an open source file sync and share solution that aims to create your
 
 **Topics**:
 * [Audience and Purpose](#audience-and-purpose)
-* [Getting Started with ownCloud](#getting-started)
+* [Getting Started with ownCloud](#getting-started-with-owncloud)
 * [Installation Highlights](#installation-highlights)
 * [Prerequisites](#prerequisites)
-* [Installing ownCloud Server](#installing-ownCloud)
-* [Configuring ownCloud Server](#configuring-ownCloud-server)
-* [Installing ownCloud Clients](#installing-ownCloud-clients)
-* [Connecting to ownCloud Server Using Desktop](#connecting-to-ownCloud-server-using-desktop)
-* [Connecting to ownCloud Server Using Mobile App](#connecting-to-ownCloud-server-using-mobile-app)
+* [Installing ownCloud Server](#installing-owncloud)
+* [Configuring ownCloud Server](#configuring-owncloud-server)
+* [Installing ownCloud Clients](#installing-owncloud-clients)
+* [Connecting to ownCloud Server Using Desktop](#connecting-to-owncloud-server-using-desktop)
+* [Connecting to ownCloud Server Using Mobile App](#connecting-to-owncloud-server-using-mobile-app)
 
 ## Audience and Purpose
 This document is intended for the following users:
