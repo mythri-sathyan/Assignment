@@ -198,7 +198,8 @@ After installing the ownCloud Server, the administrator must perform the followi
     * Configure user authentication with LDAP
     * Configure Provisioning API app
 
-    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html) 
+    For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html)     
+	
 [Go to top](#owncloud-quick-start-guide)
 
 ## Installing ownCloud Clients
@@ -216,7 +217,8 @@ Users can upload, download, and interact with the ownCloud Server files using th
    * Mobile Apps: You can install mobile apps for a simple interface, automatic synchronization of the files, and 
      easy to upload files from your device to ownCloud Server. 
      * For more information about installing ownCloud iOS App, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html)
-     * For more information about installing ownCloud Android App, see [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
+     * For more information about installing ownCloud Android App, see [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)       
+	 
 [Go to top](#owncloud-quick-start-guide)
 
 ## Connecting to ownCloud Server Using Desktop
@@ -227,7 +229,8 @@ To connect to ownCloud Server from your Desktop:
 4. Click **Connect**.   
    After the connection is established, the specified folders are synchronized between the ownCloud Server and your 
    system.   
-   For more information, see [https://doc.owncloud.org/desktop/latest/](https://doc.owncloud.org/desktop/latest/)
+   For more information, see [https://doc.owncloud.org/desktop/latest/](https://doc.owncloud.org/desktop/latest/)       
+   
 [Go to top](#owncloud-quick-start-guide)
 
 ## Connecting to ownCloud Server Using Mobile App
@@ -238,5 +241,6 @@ To connect to ownCloud Server using your mobile device:
 3. Click **Connect**.    
    If the ownCloud Server has a self-signed SSL certificate, a warning message is displayed indicating that it must not be trusted. Tap YES to accept the certificate and complete your account setup. 
    After connecting to the ownCloud Server, the files are synchronized between the ownCloud Server and your mobile device.     
-   For more information, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html) and [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
+   For more information, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html) and [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)            
+   
 [Go to top](#owncloud-quick-start-guide)
