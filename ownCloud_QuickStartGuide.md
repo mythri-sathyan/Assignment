@@ -159,13 +159,13 @@ After installing the ownCloud Server, the administrator must perform the followi
 * **Configure Server Operations**: During ownCloud Server installation, most of the server operations are configured    
     automatically. The ownCloud Server has a built-in configuration check that provides a report as warnings at the top 
     of your Admin page. The installer creates the config/config.php file automatically and contains the parameters that 
-    controls the server operations.       
-
-  **Note**: It is recommended to edit this file only if you have to change a parameter value. For example, to enable 
-    users for connecting to the Server using the Server’s IP address and port 8080, change the dbhost parameter to 
-    <ServerIPaddress>:<portnumber>.    
+    controls the server operations.         
 	
-	The following are a few server operations that you can configure
+	**Note**: It is recommended to edit this file only if you have to change a parameter value. For example, to enable 
+    users for connecting to the Server using the Server’s IP address and port 8080, change the dbhost parameter to 
+    [ServerIPaddress]:[portnumber].        
+	
+	The following are a few server operations that you can configure:
 	* SSL-enabled security     
 	* Email notifications    
 	* Virus scanner     
