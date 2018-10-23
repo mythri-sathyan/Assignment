@@ -6,10 +6,10 @@ This document is intended for the following users:
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
 # Getting Started with ownCloud
 To get started with ownCloud, perform the following:
-* **Review basic ownCloud information**: Read the basic information to understand ownCloud. For more information, see (https://owncloud.org/)
-* **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see (https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
-* **Procure licenses**: Standard, Enterprise, and custom subscriptions are available. For more information, see (https://owncloud.com/pricing/) 
-* **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see (https://owncloud.com/manage-control-files/)
+* **Review basic ownCloud information**: Read the basic information to understand ownCloud. For more information, see [https://owncloud.org/](https://owncloud.org/)
+* **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html](https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
+* **Procure licenses**: Standard, Enterprise, and custom subscriptions are available. For more information, see [https://owncloud.com/pricing/](https://owncloud.com/pricing/) 
+* **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see [https://owncloud.com/manage-control-files/](https://owncloud.com/manage-control-files/)
 # Installation Highlights        
   The following are the steps to install and configure ownCloud Server to connect from a client:
   1. Download ownCloud Server.
@@ -27,7 +27,7 @@ Before installing ownCloud, you must consider a few system requirements for the 
 * Mobile App 
 * Browsers and Hypervisors
 
-For more information, see https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html
+For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html](https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html)
 
 # Installing ownCloud Server
 1. You can download ownCloud Server using any one of the following resources:
@@ -35,7 +35,7 @@ For more information, see https://doc.owncloud.org/server/latest/admin_manual/in
    * Docker 
    * Appliance
    * Linux Distribution Packages
-   For details about each resource, see https://owncloud.org/download/
+   For details about each resource, see [https://owncloud.org/download/](https://owncloud.org/download/)
 
 2. You can install ownCloud Server in any of the following ways:
    * **Using source tarball**: If there are no packages for the Linux distribution, then install the ownCloud Server    
@@ -53,15 +53,15 @@ For more information, see https://doc.owncloud.org/server/latest/admin_manual/in
         9. Configure PHP-FPM (optional)
        10. Configure other Web servers (optional) 
        
-       For more information, see https://doc.owncloud.org/server/latest/admin_manual/installation/source_installation.html
+       For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/source_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/source_installation.html)
 
    * **Using Linux Distribution Packages**: ownCloud provides ready-to-deploy packages for Linux distributions such as 
        Debian, Ubuntu, Fedora, RedHat Enterprise Linux, CentOS and openSUSE. 
        To install the Linux packages:
        1. Download and install the packages using Linux Package Manager.    
-          For more information, see     https://doc.owncloud.org/server/latest/admin_manual/installation/linux_installation.html.
+          For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/linux_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/linux_installation.html)
        2. Run the Installation Wizard to complete the ownCloud Server installation.      
-          For more information, see https://doc.owncloud.org/server/latest/admin_manual/installation/installation_wizard.html.
+          For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/installation_wizard.html](https://doc.owncloud.org/server/latest/admin_manual/installation/installation_wizard.html)
    * **Using Docker image**: Install ownCloud using the ownCloud Docker image. It is designed to work with a data volume  
        in the host filesystem and separate MariaDB and Redis containers. Also, the ownCloud Docker image:
        * Allows ports 80 and 443 for HTTP and HTTPS connections
