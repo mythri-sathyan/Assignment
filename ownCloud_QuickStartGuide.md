@@ -17,19 +17,23 @@ ownCloud is an open source file sync and share solution that aims to create your
 This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
-## Getting Started with ownCloud
+
+## Getting Started with ownCloud      
+
 To get started with ownCloud, perform the following:
 * **Review basic ownCloud information**: Read the basic information to understand ownCloud. For more information, see [https://owncloud.org/](https://owncloud.org/)
 * **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html](https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
 * **Procure licenses**: Standard, Enterprise, and custom subscriptions are available. For more information, see [https://owncloud.com/pricing/](https://owncloud.com/pricing/) 
 * **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see [https://owncloud.com/manage-control-files/](https://owncloud.com/manage-control-files/)
-## Installation Highlights        
-  The following are the steps to install and configure ownCloud Server to connect from a client:
-  1. Download ownCloud Server.
-  2. Install ownCloud Server.   
-  3. Configure ownCloud Server.
-  4. Install the required client (Desktop or Mobile App) for connecting to the ownCloud Server.
-  5. Connect to ownCloud Server from client.
+
+## Installation Highlights     
+   
+The following are the steps to install and configure ownCloud Server to connect from a client:
+1. Download ownCloud Server.
+2. Install ownCloud Server.   
+3. Configure ownCloud Server.
+4. Install the required client (Desktop or Mobile App) for connecting to the ownCloud Server.
+5. Connect to ownCloud Server from client.
 
 ## Prerequisites
 
