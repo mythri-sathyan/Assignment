@@ -156,10 +156,8 @@ After installing the ownCloud Server, the administrator must perform the followi
     For more information, see 
     [https://doc.owncloud.org/server/latest/admin_manual/configuration/ldap/ldap_proxy_cache_server_setup.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/ldap/ldap_proxy_cache_server_setup.html) 
 
-* **Configure Server Operations**: During ownCloud Server installation, most of the server operations are configured    
-    automatically. The ownCloud Server has a built-in configuration check that provides a report as warnings at the top 
-    of your Admin page. The installer creates the config/config.php file automatically and contains the parameters that 
-    controls the server operations.         
+* **Configure Server Operations**: During ownCloud Server installation, most of the server operations are configured automatically. The ownCloud Server has a   
+    built-in configuration check that provides a report as warnings at the top of your Admin page. The installer creates the config/config.php file automatically and contains the parameters that controls the server operations.         
 	
 	**Note**: It is recommended to edit this file only if you have to change a parameter value. For example, to enable 
     users for connecting to the Server using the Server’s IP address and port 8080, change the dbhost parameter to 
