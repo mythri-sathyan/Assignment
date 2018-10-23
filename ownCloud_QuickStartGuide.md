@@ -3,15 +3,15 @@
 ownCloud is an open source file sync and share solution that aims to create your own on-premise cloud. It allows you to synchronize information between devices, share files, and collaboratively work on documents. It can be used for small workgroups or departments, mid-sized enterprises, large enterprises, and service providers. Using ownCloud, IT can manage the company‘s confidential documents and allow users to access the required information anytime and anywhere (based on the privileges).
 
 **Topics**:
-* [Audience and Purpose][audience-and-purpose]
-* [[Getting Started with ownCloud|#getting-started-with-ownCloud]]
-* [[Installation Highlights|#installation-highlights]]
-* [[Prerequisites|#prerequisites]]
-* [[Installing ownCloud Server|#installing-ownCloud-server]]
-* [[Configuring ownCloud Server|#configuring-ownCloud-server]]
-* [[Installing ownCloud Clients|#installing-ownCloud-clients]]
-* [[Connecting to ownCloud Server Using Desktop|#connecting-to-ownCloud-server-using-desktop]]
-* [[Connecting to ownCloud Server Using Mobile App|#connecting-to-ownCloud-server-using-mobile-app]]
+* [Audience and Purpose](#audience-and-purpose)
+* [Getting Started with ownCloud](#getting-started-with-ownCloud)
+* [Installation Highlights](#installation-highlights)
+* [Prerequisites](#prerequisites)
+* [Installing ownCloud Server](#installing-ownCloud-server)
+* [Configuring ownCloud Server](#configuring-ownCloud-server)
+* [Installing ownCloud Clients](#installing-ownCloud-clients)
+* [Connecting to ownCloud Server Using Desktop](#connecting-to-ownCloud-server-using-desktop)
+* [Connecting to ownCloud Server Using Mobile App](#connecting-to-ownCloud-server-using-mobile-app)
 
 ## Audience and Purpose
 This document is intended for the following users:
