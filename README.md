@@ -1,5 +1,7 @@
 ownCloud is an open source file sync and share solution that aims to create your own on-premise cloud. It allows you to synchronize information between devices, share files, and collaboratively work on documents. It can be used for small workgroups or departments, mid-sized enterprises, large enterprises, and service providers. Using ownCloud, IT can manage the company‘s confidential documents and allow users to access the required information anytime and anywhere (based on the privileges).
 # Audience and Purpose
+http://github.com - automatic!
+[GitHub](http://github.com)
 This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: : Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
