@@ -1,22 +1,25 @@
+# ownCloud Quick Start Guide
+
 ownCloud is an open source file sync and share solution that aims to create your own on-premise cloud. It allows you to synchronize information between devices, share files, and collaboratively work on documents. It can be used for small workgroups or departments, mid-sized enterprises, large enterprises, and service providers. Using ownCloud, IT can manage the company‘s confidential documents and allow users to access the required information anytime and anywhere (based on the privileges).
-# Audience and Purpose
+## Audience and Purpose
 This document is intended for the following users:
 * Administrators: Install and Configure ownCloud Server
 * Users: Connect to ownCloud Server using the ownCloud client—Desktop client or Mobile App
-# Getting Started with ownCloud
+## Getting Started with ownCloud
 To get started with ownCloud, perform the following:
 * **Review basic ownCloud information**: Read the basic information to understand ownCloud. For more information, see [https://owncloud.org/](https://owncloud.org/)
 * **Plan ownCloud installation**: Based on the environment and IT infrastructure, determine your ownCloud Server installation method and the client to connect with the ownCloud Server. For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html](https://doc.owncloud.org/server/latest/admin_manual/installation/deployment_recommendations.html)
 * **Procure licenses**: Standard, Enterprise, and custom subscriptions are available. For more information, see [https://owncloud.com/pricing/](https://owncloud.com/pricing/) 
 * **Manage ownCloud**: Based on the defined classification, administrators can set document classification rules and enforce it. For more information, see [https://owncloud.com/manage-control-files/](https://owncloud.com/manage-control-files/)
-# Installation Highlights        
+## Installation Highlights        
   The following are the steps to install and configure ownCloud Server to connect from a client:
   1. Download ownCloud Server.
   2. Install ownCloud Server.   
   3. Configure ownCloud Server.
   4. Install the required client (Desktop or Mobile App) for connecting to the ownCloud Server.
   5. Connect to ownCloud Server from client.
-# Prerequisites
+## Prerequisites
+
 Before installing ownCloud, you must consider a few system requirements for the following:     
 **Note**: LAMP stack is a combination of an operating system, Web server, database, and PHP. ownCloud requires a LAMP stack to function appropriately. 
 * Operating System for server and client
@@ -28,7 +31,7 @@ Before installing ownCloud, you must consider a few system requirements for the 
 
 For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html](https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html)
 
-# Installing ownCloud Server
+## Installing ownCloud Server
 1. You can download ownCloud Server using any one of the following resources:
    * Tarball 
    * Docker 
@@ -97,7 +100,7 @@ For more information, see [https://doc.owncloud.org/server/latest/admin_manual/i
                                 
     For more information, see [https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html](https://doc.owncloud.org/server/latest/admin_manual/installation/command_line_installation.html)
 
-# Configuring ownCloud Server
+## Configuring ownCloud Server
 After installing the ownCloud Server, the administrator must perform the following basic configurations so that users can connect to this Server from their Desktop client or mobile device: 
  * **Configure database**: All administrative data is stored in the database. 
      To configure the database:
@@ -173,7 +176,7 @@ After installing the ownCloud Server, the administrator must perform the followi
 
     For more information, see [https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html](https://doc.owncloud.org/server/latest/admin_manual/configuration/user/user_configuration.html) 
 
-# Installing ownCloud Clients
+## Installing ownCloud Clients
 Users can upload, download, and interact with the ownCloud Server files using the clients.
 1. Based on your requirement, you can download any one of the following clients:
    * Desktop client: Synchronizes data from your local system with the ownCloud Server and vice-versa. For more 
@@ -187,25 +190,25 @@ Users can upload, download, and interact with the ownCloud Server files using th
      the instructions on the download page.    
      For more information, see [https://doc.owncloud.org/desktop/latest/installing.html](https://doc.owncloud.org/desktop/latest/installing.html) 
    * Mobile Apps: You can install mobile apps for a simple interface, automatic synchronization of the files, and 
-     easy to upload files from your device to ownCloud server. 
+     easy to upload files from your device to ownCloud Server. 
      * For more information about installing ownCloud iOS App, see [https://doc.owncloud.org/ios/ios_app.html](https://doc.owncloud.org/ios/ios_app.html)
      * For more information about installing ownCloud Android App, see [https://doc.owncloud.org/android/android_app.html](https://doc.owncloud.org/android/android_app.html)
 
-# Connecting to ownCloud Server Using Desktop
+## Connecting to ownCloud Server Using Desktop
 To connect to ownCloud Server from your Desktop:
 1. Launch ownCloud Desktop Synchronization Client from your system. 
-2. Specify the ownCloud server URL and login credentials.
+2. Specify the ownCloud Server URL and login credentials.
 3. Select the folders on your system that must be synchronized with the ownCloud Server and vice-versa 
 4. Click **Connect**.   
    After the connection is established, the specified folders are synchronized between the ownCloud Server and your 
    system.   
    For more information, see [https://doc.owncloud.org/desktop/latest/](https://doc.owncloud.org/desktop/latest/)
 
-# Connecting to ownCloud Server Using Mobile App
+## Connecting to ownCloud Server Using Mobile App
 To connect to ownCloud Server using your mobile device:
 1. Open the ownCloud app. 
    The **Configuration** screen is displayed.
-2. Specify your ownCloud server URL and login credentials. 
+2. Specify your ownCloud Server URL and login credentials. 
 3. Click **Connect**.    
    If the ownCloud Server has a self-signed SSL certificate, a warning message is displayed indicating that it must    
    not be trusted. Tap YES to accept the certificate and complete your account setup. 
